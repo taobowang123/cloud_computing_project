@@ -1,0 +1,1 @@
+mysql -h database-1.cw9hkqmrhrqy.eu-west-1.rds.amazonaws.com -p3306 -uadmin -pwbt62803683
